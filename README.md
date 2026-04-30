@@ -1,4 +1,7 @@
-![Logo](Images/Logo.png)
+<p align="center">
+  <img src="Images/Logo.png" alt="Logo">
+</p>
+
 # Al-Andalosya for Medical Equipment - Endoscopic Simulator
 
 The project is an endoscopic simulator designed to **navigate**, **inspect**, and **analyze anomalies (tumors)** within a simulated anatomical environment. 
